@@ -47,9 +47,23 @@ Se você quiser contribuir com melhorias ou correções, siga estas etapas:
 4. Envie para o branch original: `git push origin nome-da-sua-branch`.
 5. Crie uma solicitação de pull.
 
-## Desenvolvedores
+## Desenvolvedor
 
-- **Seu Nome:** [Link para o perfil no GitHub](https://github.com/HebertFSoares)
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="Hebert">
+        <img src="https://avatars.githubusercontent.com/u/88061348?s=400&u=0f256aaecccd77a0d09b4b04b6a7f42e95729fbd&v=4" width="100px;" alt="Ft_Github"/><br>
+        <sub>
+          <b>HebertFSoares</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Licença
 
