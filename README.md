@@ -21,7 +21,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos:
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1. Clone este repositório: `git clone https://github.com/HebertFSoares/Decodificador-Alura.git`
 2. Abra o arquivo `index.html` em um navegador web.
 
 ## Utilização
